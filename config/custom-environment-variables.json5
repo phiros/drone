@@ -1,6 +1,6 @@
 {
   port: 'PORT',
   coreUrl: 'CORE_URL',
-  droneUser: 'DRONE_USER',
-  dronePwd: 'DRONE_PWD'
+  coreAPIToken: 'CORE_API_TOKEN',
+  droneName: 'DRONE_NAME'
 }
